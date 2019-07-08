@@ -6,4 +6,8 @@ before_install:
  - chmod +x gradlew
 
 jdk:
+<<<<<<< HEAD
   - oraclejdk11
+=======
+  - oraclejdk11
+>>>>>>> 6e04dce08c89d300e302f7186404f34c0115c84e
