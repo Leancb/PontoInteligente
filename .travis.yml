@@ -1,3 +1,9 @@
+dist: trusty
 language: java
 jdk:
+<<<<<<< HEAD
   - oraclejdk8
+=======
+- oraclejdk8
+- openjdk11
+>>>>>>> 93d178507f5ad9296e26f97786d2d91f6282bd6b
